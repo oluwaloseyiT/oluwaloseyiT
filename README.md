@@ -70,15 +70,15 @@ I contributed to PinPoint Pro a high-performance, context-aware digital workspac
 # 🏆 Certifications & Achievements
 
 | Certification | Issuing Organization | Date | Credential |
-|Introduction to FinOps| FinOps | Oct 2024 | ![View Credential](<img width="3300" height="2550" alt="image" src="https://github.com/user-attachments/assets/8c93ace4-bdb2-4de0-b93c-3255c85a4c52" /> )|
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Jan 2026 | [View Credential](#) |
+|---------------|----------------------|------|------------|
+| Introduction to FinOps | FinOps | Oct 2024 | [View Credential](https://cc.sj-cdn.net/certificate/2iprv52w108nv/certificate-hsgoq5dxuqi3-1728231333.jpg?Expires=1785349131&Signature=DDXEf272mKfZclR~xKKdc1bgyAoT8TRgb82CQgNy40YKBPaM~342DZaSzva8TvcfupFvst6s7crqavIaYX-z~5lYya5BUl3YC5g5TAEAZlVgLi3uyxHP36ABHgWmWAPGusAN~F3F09o6wWWi3yvtBU5XkuRZptHbOXheAoOZnceHzOPFKdwONMMwQ8x~UBXa-H8gAWiEsxL16vP9jvTy-PNARlWL~UW8LKJovIgxNlujym33D-hbumThs3Q~AVoBSc0IjDaIsYdtbzQgLno27om-6CyM~r3FlLn8gWVeQZ7tCIRA38~kZgA~5wTgMDp7SFk2yAoeLqFBd0lOyo9GJQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ) |
 
 ---
 
 # 📜 Certification Badges
 
 <p align="center">
-<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="120"/>"
+<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="120"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@ I contributed to PinPoint Pro a high-performance, context-aware digital workspac
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=oluwaloseyT"/>
+<img src="https://streak-stats.demolab.com?user=oluwaloseyiT"/>
 </p>
 
 ---
