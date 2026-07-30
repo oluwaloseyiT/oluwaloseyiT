@@ -46,21 +46,21 @@ building real-world projects, and continuously improving my technical skills.
 
 # 🚀 Featured Projects
 
-## 🌟 Project One
+## 🌟 DevOps-lab
 
 In my first project I set up a pro DevOps environment and containerised the app using Docker.
 **Repository:** https://github.com/oluwaloseyiT/devops-lab2
 
 ---
 
-## 🌟 Project Two
+## 🌟 LoopCart
 
 LoopCart is a Python application that delivers personalised welcome messages to users.
 **Repository:** https://github.com/oluwaloseyiT/loopcart-remote
 
 ---
 
-## 🌟 Project Three
+## 🌟 PinPoint Pro
 
 I contributed to PinPoint Pro a high-performance, context-aware digital workspace designed for deep work.
 **Repository:** https://github.com/oluwaloseyiT/pinpointpro
