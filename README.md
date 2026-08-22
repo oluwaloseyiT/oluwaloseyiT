@@ -1,4 +1,5 @@
-<img width="100%" height="396" alt="Profile Banner" src="https://github.com/user-attachments/assets/407ba57c-b0d3-4d06-9836-4a41ae3de414" />
+<img width="1584" height="396" alt="GitHub cover photo" src="https://github.com/user-attachments/assets/0e5f2155-a641-418a-bd4e-82944863de75" />
+
 <h1 align="center">Hi 👋, I'm Oluwatofunmi Emmanuel Oluwaloseyi</h1>
 
 <p align="center">
