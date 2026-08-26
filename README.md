@@ -15,7 +15,7 @@ building real-world projects, and continuously improving my technical skills.
 # 👨💻 About Me
 
 - 🔭 I'm currently working on **OUTSIDE**
-- 🌱 I'm currently learning **Docker (Containerisation)**
+- 🌱 I'm currently learning **Kubernetes**
 - 🤝 I'm looking to collaborate on more **Open Source Projects**
 - 💬 Ask me about **Programming, Cloud, Linux, DevOps or Technical Writing**
 - 🎯 My goal is to become a very skilled **Cloud & DevOps Engineer**
