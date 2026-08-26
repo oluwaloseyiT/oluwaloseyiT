@@ -14,7 +14,7 @@ building real-world projects, and continuously improving my technical skills.
 
 # 👨💻 About Me
 
-- 🔭 I'm currently working on **Contributing to Pinpointpro**
+- 🔭 I'm currently working on **OUTSIDE**
 - 🌱 I'm currently learning **Docker (Containerisation)**
 - 🤝 I'm looking to collaborate on more **Open Source Projects**
 - 💬 Ask me about **Programming, Cloud, Linux, DevOps or Technical Writing**
