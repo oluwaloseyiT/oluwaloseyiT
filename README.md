@@ -69,7 +69,7 @@ I contributed to PinPoint Pro a high-performance, context-aware digital workspac
 
 ---
 
-# 🏆 Certifications & Achievements
+# 🎓 Certifications & Achievements
 
 | Certification | Issuing Organization | Date | Credential |
 |---------------|----------------------|------|------------|
@@ -77,7 +77,7 @@ I contributed to PinPoint Pro a high-performance, context-aware digital workspac
 
 ---
 
-# 📜 Certification Badges
+# 🏆 Certification Badges
 
 <p align="center">
 <img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="120"/>
@@ -88,8 +88,8 @@ I contributed to PinPoint Pro a high-performance, context-aware digital workspac
 # 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oluwaloseyiT&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaloseyiT&layout=compact&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?oluwaloseyiT=oluwaloseyiT&show_icons=true&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?oluwaloseyiT=oluwaloseyiT&layout=compact&theme=default"/>
 </p>
 
 ---
@@ -112,12 +112,12 @@ I contributed to PinPoint Pro a high-performance, context-aware digital workspac
 
 # 🎯 2026 Goals
 
-- ✅ Build 10 real-world cloud projects
-- ✅ Contribute to Open Source
-- ✅ Earn Cloud Certifications
-- ✅ Learn Kubernetes
-- ✅ Improve Linux Skills
-- ✅ Land a Cloud Engineering Role
+- [ ] Build 10 real-world cloud projects
+- [x] Contribute to Open Source
+- [x] Earn Cloud Certifications
+- [x] Learn Kubernetes
+- [x] Improve Linux Skills
+- [ ] Land a Cloud Engineering Role
 
 ---
 
