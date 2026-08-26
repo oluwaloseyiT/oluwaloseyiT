@@ -19,7 +19,7 @@ building real-world projects, and continuously improving my technical skills.
 - 🤝 I'm looking to collaborate on more **Open Source Projects**
 - 💬 Ask me about **Programming, Cloud, Linux, DevOps or Technical Writing**
 - 🎯 My goal is to become a very skilled **Cloud & DevOps Engineer**
-- 📫 Reach me at **seyijasper@proton.me**
+- 📫 Reach me at **oluwaloseyie@gmail.com**
 
 ---
 
