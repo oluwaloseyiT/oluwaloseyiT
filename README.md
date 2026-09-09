@@ -88,8 +88,8 @@ I contributed to PinPoint Pro a high-performance, context-aware digital workspac
 # 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?oluwaloseyiT=oluwaloseyiT&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?oluwaloseyiT=oluwaloseyiT&layout=compact&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?user=oluwaloseyiT&show_icons=true&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?user=oluwaloseyiT&layout=compact&theme=default"/>
 </p>
 
 ---
@@ -105,7 +105,7 @@ I contributed to PinPoint Pro a high-performance, context-aware digital workspac
 # 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oluwaloseyiT&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?user=oluwaloseyiT&theme=github-compact"/>
 </p>
 
 ---
