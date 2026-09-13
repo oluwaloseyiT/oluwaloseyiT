@@ -66,7 +66,11 @@ LoopCart is a Python application that delivers personalised welcome messages to 
 
 I contributed to PinPoint Pro a high-performance, context-aware digital workspace designed for deep work.
 **Repository:** https://github.com/oluwaloseyiT/pinpointpro
+---
 
+## 🌟 OUTSIDE
+
+I built this app that helps you know what is happening in your city right now.
 ---
 
 # 🎓 Certifications & Achievements
