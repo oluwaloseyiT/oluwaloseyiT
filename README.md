@@ -14,7 +14,7 @@ building real-world projects, and continuously improving my technical skills.
 
 # 👨💻 About Me
 
-- 🔭 I'm currently working on **OUTSIDE** & **Cologne by four29**
+- 🔭 I'm currently working on **OUTSIDE** & **ColognebyFour29**
 - 🌱 I'm currently learning **Kubernetes**
 - 🤝 I'm looking to collaborate on more **Open Source Projects**
 - 💬 Ask me about **Programming, Cloud, Linux, DevOps or Technical Writing**
