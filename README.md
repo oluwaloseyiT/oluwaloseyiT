@@ -73,6 +73,11 @@ I contributed to PinPoint Pro a high-performance, context-aware digital workspac
 I built this app that helps you know what is happening in your city right now.
 ---
 
+## 🌟 Colognebyfour24
+
+I built this e-commerce web app for a Lagos cologne brand 
+---
+
 # 🎓 Certifications & Achievements
 
 | Certification | Issuing Organization | Date | Credential |
