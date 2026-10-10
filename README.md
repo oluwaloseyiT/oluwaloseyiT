@@ -1,14 +1,8 @@
 <div align="center">
 
-<img width="100%" alt="Oluwatofunmi Emmanuel Oluwaloseyi — Cloud & DevOps Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:061C38,45:0078D4,100:6A5ACD&height=240&section=header&text=Oluwatofunmi%20Oluwaloseyi&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20DevOps%20%7C%20Azure%20%26%20AWS%20%7C%20FinOps&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6A5ACD&height=240&section=header&text=Oluwatofunmi%20Oluwaloseyi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20Azure%20%7C%20AWS%20%7C%20FinOps&descAlignY=58"/>
 
 <img alt="Cloud engineering specialties" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1100&color=00C9D4&center=true&vCenter=true&width=900&lines=Cloud+Engineer+%7C+DevOps;Microsoft+Azure+%7C+Amazon+Web+Services;Terraform+%7C+Docker+%7C+Linux;Cloud+Security+%7C+Monitoring+%7C+FinOps;Build.+Secure.+Automate.+Document." />
-
-# Hi, I'm Oluwatofunmi Emmanuel Oluwaloseyi 👋
-
-**Cloud Engineer · Azure & AWS · DevOps · Cloud Security · FinOps**
-
-Building cloud infrastructure that is **secure, observable, repeatable, and cost-conscious**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-oluwaloseyiT-0D1117?style=for-the-badge&logo=github)](https://github.com/oluwaloseyiT)
 [![Technical writing](https://img.shields.io/badge/Articles-dev.to%2Ftjasper-0D1117?style=for-the-badge&logo=devdotto)](https://dev.to/tjasper)
