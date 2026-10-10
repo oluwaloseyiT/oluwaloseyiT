@@ -33,7 +33,7 @@ I'm a cloud engineer with hands-on experience exploring **Microsoft Azure, AWS, 
 ## 🧰 Technical toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,linux,git,github,githubactions,python,bash,nginx,vscode&perline=12" alt="Azure, AWS, Terraform, Docker, Linux, Git, GitHub, GitHub Actions, Python, Bash, Nginx, VS Code" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,linux,git,github,githubactions,python,bash,ai,nginx,vscode&perline=12" alt="Azure, AWS, Terraform, Docker, Linux, Git, GitHub, GitHub Actions, Python, Bash, Ai, Nginx, VS Code" />
 </p>
 
 | Focus | Tools and concepts |
@@ -72,16 +72,21 @@ An open-source, context-aware digital workspace project to which I've contribute
 
 ## 🏅 Certifications & applied skills
 
-| Credential | Issuer |
-| :--- | :--- |
-| Configure secure access to workloads using Azure networking | Microsoft Applied Skills |
-| Deploy and configure Azure Monitor | Microsoft Applied Skills |
-| Get started with identities and access using Microsoft Entra | Microsoft Applied Skills |
-| Get started with cloud security and monitoring tasks | Microsoft Applied Skills |
-| Get started with Azure management tasks | Microsoft Applied Skills |
-| [GitHub Foundations](https://www.credly.com/badges/3b018ed7-6cb0-4f43-8c7d-8920ae09dc58) | GitHub |
-| Observability Foundations | New Relic |
-| [Introduction to FinOps](https://cc.sj-cdn.net/certificate/2iprv52w108nv/certificate-hsgoq5dxuqi3-1728231333.jpg?Expires=1785349131&Signature=DDXEf272mKfZclR~xKKdc1bgyAoT8TRgb82CQgNy40YKBPaM~342DZaSzva8TvcfupFvst6s7crqavIaYX-z~5lYya5BUl3YC5g5TAEAZlVgLi3uyxHP36ABHgWmWAPGusAN~F3F09o6wWWi3yvtBU5XkuRZptHbOXheAoOZnceHzOPFKdwONMMwQ8x~UBXa-H8gAWiEsxL16vP9jvTy-PNARlWL~UW8LKJovIgxNlujym33D-hbumThs3Q~AVoBSc0IjDaIsYdtbzQgLno27om-6CyM~r3FlLn8gWVeQZ7tCIRA38~kZgA~5wTgMDp7SFk2yAoeLqFBd0lOyo9GJQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ) | FinOps Foundation |
+| Credential | Issuer | Focus |
+| :--- | :--- | --- |
+| [Configure secure access to workloads using Azure networking](https://learn.microsoft.com/api/credentials/share/en-us/oluwatofunmioluwaloseyi-0251/308D8AA9FB00D84A?sharingId=768A81A1F4DEB333) | Microsoft Applied Skills | Networking |
+| [Deploy and configure Azure Monitor](https://learn.microsoft.com/api/credentials/share/en-us/oluwatofunmioluwaloseyi-0251/B48819D50FD6BF22?sharingId=768A81A1F4DEB333) | Microsoft Applied Skills | Observability |
+| [Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/api/credentials/share/en-us/oluwatofunmioluwaloseyi-0251/ADCC6DD98D3662E1?sharingId=768A81A1F4DEB333) | Microsoft Applied Skills | Storage |
+| [Get started with identities and access using Microsoft Entra](https://learn.microsoft.com/api/credentials/share/en-us/oluwatofunmioluwaloseyi-0251/D7ECAACCA6917AD7?sharingId=768A81A1F4DEB333) | Microsoft Applied Skills | User-Management |
+| [Administer Active Directory Domain Services](https://learn.microsoft.com/api/credentials/share/en-us/oluwatofunmioluwaloseyi-0251/5047F49C0DDE979A?sharingId=768A81A1F4DEB333) | Microsoft Applied Skills | User-Management |
+| [Get started with cloud security and monitoring tasks](https://learn.microsoft.com/api/credentials/share/en-us/oluwatofunmioluwaloseyi-0251/2C7A28D15756828E?sharingId=768A81A1F4DEB333) | Microsoft Applied Skills | Security & Monitoring |
+| [Get started with Azure management tasks](https://learn.microsoft.com/api/credentials/share/en-us/oluwatofunmioluwaloseyi-0251/2C7A28D15756828E?sharingId=768A81A1F4DEB333) | Microsoft Applied Skills | Administration |
+| [Configure SIEM security operations using Microsoft Sentinel](https://learn.microsoft.com/api/credentials/share/en-us/oluwatofunmioluwaloseyi-0251/6DF95E5F9AF2F4B9?sharingId=768A81A1F4DEB333) | Microsoft Applied Skills | Security |
+| [Resolve GitHub issues by using GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-us/oluwatofunmioluwaloseyi-0251/85857941E3978810?sharingId=768A81A1F4DEB333) | Microsoft Applied Skills | GitHub issues |
+| [GitHub Foundations](https://www.credly.com/badges/3b018ed7-6cb0-4f43-8c7d-8920ae09dc58) | GitHub | Github |
+| [Observability Foundations](https://credentials.newrelic.com/563e0b81-0fc7-4865-a5fe-aa45d0593b87#acc.QRtd0ZBO) | New Relic | Observability |
+| [Observability Practitioner Badge](https://credentials.newrelic.com/a27cefdb-a463-42f5-b3c9-51e98fe51ec0#acc.wDrcFuSJ) | New Relic | Observability |
+| [Introduction to FinOps](https://cc.sj-cdn.net/certificate/2iprv52w108nv/certificate-hsgoq5dxuqi3-1728231333.jpg?Expires=1785349131&Signature=DDXEf272mKfZclR~xKKdc1bgyAoT8TRgb82CQgNy40YKBPaM~342DZaSzva8TvcfupFvst6s7crqavIaYX-z~5lYya5BUl3YC5g5TAEAZlVgLi3uyxHP36ABHgWmWAPGusAN~F3F09o6wWWi3yvtBU5XkuRZptHbOXheAoOZnceHzOPFKdwONMMwQ8x~UBXa-H8gAWiEsxL16vP9jvTy-PNARlWL~UW8LKJovIgxNlujym33D-hbumThs3Q~AVoBSc0IjDaIsYdtbzQgLno27om-6CyM~r3FlLn8gWVeQZ7tCIRA38~kZgA~5wTgMDp7SFk2yAoeLqFBd0lOyo9GJQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ) | FinOps Foundation | FinOps |
 
 
 ## ✍🏾 Technical writing
@@ -100,6 +105,12 @@ I share practical walkthroughs and implementation notes on [dev.to/tjasper](http
 
 # 🤝 Connect With Me
 
+<div align="center">
+  
+**Let's build reliable infrastructure and share what we learn.**
+  
+</div>
+
 <p align="center">
 <a href="https://github.com/oluwaloseyiT">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
@@ -107,15 +118,10 @@ I share practical walkthroughs and implementation notes on [dev.to/tjasper](http
 <a href="https://twitter.com/seyi_jasper">
 <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
+<a herf="https://mailto:oluwaloseyie@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 <a href="https://dev.to/tjasper">
 <img src="https://skillicons.dev/icons?i=devto" height="45"/>
 </a>
 </p>
-
-<div align="center">
-
-**Let's build reliable infrastructure and share what we learn.**
-
-[Email](mailto:oluwaloseyie@gmail.com)
-
-</div>
