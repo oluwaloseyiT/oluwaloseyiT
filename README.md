@@ -1,119 +1,119 @@
-<img width="1584" height="396" alt="GitHub cover photo" src="https://github.com/user-attachments/assets/0e5f2155-a641-418a-bd4e-82944863de75" />
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Oluwatofunmi Emmanuel Oluwaloseyi</h1>
+<img width="100%" alt="Oluwatofunmi Emmanuel Oluwaloseyi — GitHub cover" src="https://github.com/user-attachments/assets/0e5f2155-a641-418a-bd4e-82944863de75" />
+
+# Hi, I'm Oluwatofunmi Emmanuel Oluwaloseyi 👋
+
+**Cloud Engineer · Azure & AWS · DevOps · Cloud Security · FinOps**
+
+Building cloud infrastructure that is **secure, observable, repeatable, and cost-conscious**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-oluwaloseyiT-0D1117?style=for-the-badge&logo=github)](https://github.com/oluwaloseyiT)
+[![Technical writing](https://img.shields.io/badge/Articles-dev.to%2Ftjasper-0D1117?style=for-the-badge&logo=devdotto)](https://dev.to/tjasper)
+[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwaloseyie@gmail.com)
+
+</div>
+
+---
+
+## 👨🏾‍💻 About me
+
+I'm a cloud engineer with hands-on experience exploring **Microsoft Azure, AWS, infrastructure automation, cloud networking, identity, monitoring, and containerized applications**. I enjoy turning cloud concepts into practical, well-documented labs and sharing what I learn.
+
+- ☁️ **Cloud:** Azure virtual machines, storage, virtual networks, private access, and AWS EC2/S3
+- 🔐 **Security:** Microsoft Entra ID, access control, network security, and secure storage
+- 📈 **Observability:** Azure Monitor and New Relic fundamentals
+- 🛠️ **Automation:** Terraform, Git workflows, Docker, and scripting
+- 📝 **Knowledge sharing:** [Hands-on technical tutorials](https://dev.to/tjasper)
+- 🌱 **Currently exploring:** Kubernetes and deeper DevOps workflows
+- 🤝 **Open to:** Cloud engineering, cloud support, DevOps, and open-source collaboration
+
+> My approach: **Build it. Secure it. Monitor it. Automate it. Document it.**
+
+## 🧰 Technical toolkit
 
 <p align="center">
-<strong>Cloud Engineer | DevOps Enthusiast | FinOps | Streamlining Cloud Infrastructure for Seamless Operations</strong>
-</p>
-<p align="center">
-Welcome to my GitHub profile! I'm passionate about learning new technologies,
-building real-world projects, and continuously improving my technical skills.
+  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,linux,git,github,githubactions,python,bash,nginx,vscode&perline=12" alt="Azure, AWS, Terraform, Docker, Linux, Git, GitHub, GitHub Actions, Python, Bash, Nginx, VS Code" />
 </p>
 
----
+| Focus | Tools and concepts |
+| :--- | :--- |
+| **Cloud platforms** | Microsoft Azure, AWS |
+| **Compute & networking** | Azure VMs, VNets, subnets, VNet peering, AWS EC2 |
+| **Storage & identity** | Azure Blob Storage, Azure Files, AWS S3, Microsoft Entra ID, RBAC |
+| **Infrastructure & delivery** | Terraform, Docker, Git, GitHub, GitHub Actions |
+| **Operations & monitoring** | Azure Monitor, New Relic, Linux, Nginx |
+| **Programming & configuration** | Python, Bash, YAML |
+| **Engineering interests** | Cloud security, observability, reliability, FinOps |
 
-# 👨💻 About Me
+## 🚀 Selected projects
 
-- 🔭 I'm currently working on **OUTSIDE**
-- 🌱 I'm currently learning **Kubernetes**
-- 🤝 I'm looking to collaborate on more **Open Source Projects**
-- 💬 Ask me about **Programming, Cloud, Linux, DevOps or Technical Writing**
-- 🎯 My goal is to become a very skilled **Cloud & DevOps Engineer**
-- 📫 Reach me at **oluwaloseyie@gmail.com**
+These repositories document hands-on practice and engineering workflows. I distinguish **implemented work** from future improvements rather than claiming production deployment where none is documented.
 
----
+### 🐳 [DevOps Lab — Docker application workflow](https://github.com/oluwaloseyiT/devops-lab2)
 
-# 🌐 Connect With Me
+Set up a DevOps development environment and containerized an application with Docker.
 
-<p align="center">
-<a href="https://github.com/oluwaloseyiT">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-<a href="https://twitter.com/seyi_jasper">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
-<a href="https://dev.to/tjasper">
-<img src="https://skillicons.dev/icons?i=devto" height="45"/>
-</a>
-</p>
+**Focus:** Containerization · repeatable local setup · development workflows
 
----
+### 🐍 [LoopCart — Python & Git collaboration](https://github.com/oluwaloseyiT/loopcart-remote)
 
-# 💻 Technologies & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,azure,devto,aws" />
-</p>
+A Python application that delivers personalized welcome messages, used to practice application development and version-control workflows.
 
----
+**Focus:** Python · Git · collaboration
 
-# 🚀 Featured Projects
+### 🧩 [PinPoint Pro — Open-source participation](https://github.com/oluwaloseyiT/pinpointpro)
 
-## 🌟 DevOps-lab
+An open-source, context-aware digital workspace project to which I've contributed.
 
-In my first project I set up a pro DevOps environment and containerised the app using Docker.
-**Repository:** https://github.com/oluwaloseyiT/devops-lab2
+**Focus:** Open source · collaboration · developer tooling
 
----
+**Next engineering milestones:** Expand project READMEs with setup instructions, validation evidence, architecture diagrams, and CI checks.
 
-## 🌟 LoopCart
+## 🏅 Certifications & applied skills
 
-LoopCart is a Python application that delivers personalised welcome messages to users.
-**Repository:** https://github.com/oluwaloseyiT/loopcart-remote
+| Credential | Issuer |
+| :--- | :--- |
+| Configure secure access to workloads using Azure networking | Microsoft Applied Skills |
+| Deploy and configure Azure Monitor | Microsoft Applied Skills |
+| Get started with identities and access using Microsoft Entra | Microsoft Applied Skills |
+| Get started with cloud security and monitoring tasks | Microsoft Applied Skills |
+| Get started with Azure management tasks | Microsoft Applied Skills |
+| GitHub Foundations | GitHub |
+| Observability Foundations | New Relic |
+| Introduction to FinOps | FinOps Foundation |
 
----
+*Individual verification URLs can be added as they are confirmed.*
 
-## 🌟 PinPoint Pro
+## ✍🏾 Technical writing
 
-I contributed to PinPoint Pro a high-performance, context-aware digital workspace designed for deep work.
-**Repository:** https://github.com/oluwaloseyiT/pinpointpro
----
+I share practical walkthroughs and implementation notes on [dev.to/tjasper](https://dev.to/tjasper), including:
 
-## 🌟 OUTSIDE
+- **Azure:** Virtual machines, VM Scale Sets, storage, networking, monitoring, and Microsoft Sentinel
+- **AWS:** EC2 with IIS, S3 buckets, and presigned URLs
+- **Infrastructure as Code:** Terraform setup and AWS infrastructure automation
+- **Linux & web infrastructure:** Linux virtual machines and Nginx
+- **Developer workflows:** GitHub Pages, Git, and technical documentation
 
-I built this app that helps you know what is happening in your city right now.
----
+[![Read my articles](https://img.shields.io/badge/Read_my_articles-dev.to-0D1117?style=for-the-badge&logo=devdotto)](https://dev.to/tjasper)
 
-## 🌟 Colognebyfour24
+## 📊 GitHub activity
 
-I built this e-commerce web app for a Lagos cologne brand 
----
+<div align="center">
 
-# 🎓 Certifications & Achievements
+<img alt="GitHub statistics" height="165" src="https://github-readme-stats.vercel.app/api?username=oluwaloseyiT&show_icons=true&theme=github_dark&hide_border=true" />
+<img alt="Top repository languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaloseyiT&layout=compact&theme=github_dark&hide_border=true" />
 
-| Certification | Issuing Organization | Date | Credential |
-|---------------|----------------------|------|------------|
-| Introduction to FinOps | FinOps | Oct 2024 | [View Credential](https://cc.sj-cdn.net/certificate/2iprv52w108nv/certificate-hsgoq5dxuqi3-1728231333.jpg?Expires=1785349131&Signature=DDXEf272mKfZclR~xKKdc1bgyAoT8TRgb82CQgNy40YKBPaM~342DZaSzva8TvcfupFvst6s7crqavIaYX-z~5lYya5BUl3YC5g5TAEAZlVgLi3uyxHP36ABHgWmWAPGusAN~F3F09o6wWWi3yvtBU5XkuRZptHbOXheAoOZnceHzOPFKdwONMMwQ8x~UBXa-H8gAWiEsxL16vP9jvTy-PNARlWL~UW8LKJovIgxNlujym33D-hbumThs3Q~AVoBSc0IjDaIsYdtbzQgLno27om-6CyM~r3FlLn8gWVeQZ7tCIRA38~kZgA~5wTgMDp7SFk2yAoeLqFBd0lOyo9GJQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ) |
+</div>
+
+*These are third-party dynamic cards and may be temporarily unavailable.*
 
 ---
 
-# 🏆 Certification Badges
+<div align="center">
 
-<p align="center">
-<img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="120"/>
-</p>
+**Let's build reliable infrastructure and share what we learn.**
 
----
+[GitHub](https://github.com/oluwaloseyiT) · [Technical articles](https://dev.to/tjasper) · [Email](mailto:oluwaloseyie@gmail.com)
 
-# 📈 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oluwaloseyiT&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaloseyiT&layout=compact&theme=default"/>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- [ ] Build 10 real-world cloud projects
-- [x] Contribute to Open Source
-- [x] Earn Cloud Certifications
-- [x] Learn Kubernetes
-- [x] Improve Linux Skills
-- [ ] Land a Cloud Engineering Role
-
----
-
-<p align="center">
-⭐ Thank you for visiting my profile! ⭐
-</p>
+</div>
