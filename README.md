@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" alt="Oluwatofunmi Emmanuel Oluwaloseyi — GitHub cover" src="https://github.com/user-attachments/assets/0e5f2155-a641-418a-bd4e-82944863de75" />
+<img width="100%" alt="Oluwatofunmi Emmanuel Oluwaloseyi — Cloud & DevOps Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:061C38,45:0078D4,100:6A5ACD&height=240&section=header&text=Oluwatofunmi%20Oluwaloseyi&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20DevOps%20%7C%20Azure%20%26%20AWS%20%7C%20FinOps&descAlignY=58&descSize=18" />
+
+<img alt="Cloud engineering specialties" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1100&color=00C9D4&center=true&vCenter=true&width=900&lines=Cloud+Engineer+%7C+DevOps;Microsoft+Azure+%7C+Amazon+Web+Services;Terraform+%7C+Docker+%7C+Linux;Cloud+Security+%7C+Monitoring+%7C+FinOps;Build.+Secure.+Automate.+Document." />
 
 # Hi, I'm Oluwatofunmi Emmanuel Oluwaloseyi 👋
 
@@ -125,3 +127,10 @@ I share practical walkthroughs and implementation notes on [dev.to/tjasper](http
 <img src="https://skillicons.dev/icons?i=devto" height="45"/>
 </a>
 </p>
+
+
+<div align="center">
+
+<img width="100%" alt="Decorative closing wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:061C38,45:0078D4,100:6A5ACD&height=140&section=footer" />
+
+</div>
