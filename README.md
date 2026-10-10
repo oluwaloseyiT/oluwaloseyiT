@@ -103,22 +103,6 @@ I built this e-commerce web app for a Lagos cologne brand
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=oluwaloseyiT"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oluwaloseyiT&theme=github-compact"/>
-</p>
-
----
-
 # 🎯 2026 Goals
 
 - [ ] Build 10 real-world cloud projects
