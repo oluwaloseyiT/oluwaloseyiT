@@ -101,7 +101,11 @@ I share practical walkthroughs and implementation notes on [dev.to/tjasper](http
 - **Linux & web infrastructure:** Linux virtual machines and Nginx
 - **Developer workflows:** GitHub Pages, Git, and technical documentation
 
+<div align="center">
+  
 [![Read my articles](https://img.shields.io/badge/Read_my_articles-dev.to-0D1117?style=for-the-badge&logo=devdotto)](https://dev.to/tjasper)
+
+</div>
 
 ---
 
