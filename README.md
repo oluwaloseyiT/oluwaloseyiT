@@ -79,11 +79,10 @@ An open-source, context-aware digital workspace project to which I've contribute
 | Get started with identities and access using Microsoft Entra | Microsoft Applied Skills |
 | Get started with cloud security and monitoring tasks | Microsoft Applied Skills |
 | Get started with Azure management tasks | Microsoft Applied Skills |
-| GitHub Foundations | GitHub |
+| [GitHub Foundations](https://www.credly.com/badges/3b018ed7-6cb0-4f43-8c7d-8920ae09dc58) | GitHub |
 | Observability Foundations | New Relic |
-| Introduction to FinOps | FinOps Foundation |
+| [Introduction to FinOps](https://cc.sj-cdn.net/certificate/2iprv52w108nv/certificate-hsgoq5dxuqi3-1728231333.jpg?Expires=1785349131&Signature=DDXEf272mKfZclR~xKKdc1bgyAoT8TRgb82CQgNy40YKBPaM~342DZaSzva8TvcfupFvst6s7crqavIaYX-z~5lYya5BUl3YC5g5TAEAZlVgLi3uyxHP36ABHgWmWAPGusAN~F3F09o6wWWi3yvtBU5XkuRZptHbOXheAoOZnceHzOPFKdwONMMwQ8x~UBXa-H8gAWiEsxL16vP9jvTy-PNARlWL~UW8LKJovIgxNlujym33D-hbumThs3Q~AVoBSc0IjDaIsYdtbzQgLno27om-6CyM~r3FlLn8gWVeQZ7tCIRA38~kZgA~5wTgMDp7SFk2yAoeLqFBd0lOyo9GJQ__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ) | FinOps Foundation |
 
-*Individual verification URLs can be added as they are confirmed.*
 
 ## ✍🏾 Technical writing
 
@@ -97,23 +96,26 @@ I share practical walkthroughs and implementation notes on [dev.to/tjasper](http
 
 [![Read my articles](https://img.shields.io/badge/Read_my_articles-dev.to-0D1117?style=for-the-badge&logo=devdotto)](https://dev.to/tjasper)
 
-## 📊 GitHub activity
-
-<div align="center">
-
-<img alt="GitHub statistics" height="165" src="https://github-readme-stats.vercel.app/api?username=oluwaloseyiT&show_icons=true&theme=github_dark&hide_border=true" />
-<img alt="Top repository languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaloseyiT&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-*These are third-party dynamic cards and may be temporarily unavailable.*
-
 ---
+
+# 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/oluwaloseyiT">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+<a href="https://twitter.com/seyi_jasper">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+<a href="https://dev.to/tjasper">
+<img src="https://skillicons.dev/icons?i=devto" height="45"/>
+</a>
+</p>
 
 <div align="center">
 
 **Let's build reliable infrastructure and share what we learn.**
 
-[GitHub](https://github.com/oluwaloseyiT) · [Technical articles](https://dev.to/tjasper) · [Email](mailto:oluwaloseyie@gmail.com)
+[Email](mailto:oluwaloseyie@gmail.com)
 
 </div>
