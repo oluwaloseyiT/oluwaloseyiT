@@ -14,7 +14,9 @@
 
 ## 👨🏾‍💻 About me
 
-I'm a cloud engineer with hands-on experience exploring **Microsoft Azure, AWS, infrastructure automation, cloud networking, identity, monitoring, and containerized applications**. I enjoy turning cloud concepts into practical, well-documented labs and sharing what I learn.
+I'm a **Cloud and DevOps engineer** with hands-on experience exploring **Microsoft Azure, AWS, infrastructure automation, cloud networking, identity, monitoring, Git workflows, and containerized applications**. I enjoy turning cloud and devops concepts into practical, well-documented labs and sharing what I learn. 
+
+I'm also a FinOps advocate making sure cloud resources are properly monitored, optimized, allocated, and governed for cost efficiency. 
 
 - ☁️ **Cloud:** Azure virtual machines, storage, virtual networks, private access, and AWS EC2/S3
 - 🔐 **Security:** Microsoft Entra ID, access control, network security, and secure storage
