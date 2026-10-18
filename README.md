@@ -31,7 +31,7 @@ I'm also a FinOps advocate making sure cloud resources are properly monitored, o
 ## 🧰 Technical toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,linux,git,github,githubactions,python,bash,ai,nginx,vscode&perline=12" alt="Azure, AWS, Terraform, Docker, Linux, Git, GitHub, GitHub Actions, Python, Bash, Ai, Nginx, VS Code" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,linux,git,github,githubactions,python,bash,nginx,vscode&perline=12" alt="Azure, AWS, Terraform, Docker, Linux, Git, GitHub, GitHub Actions, Python, Bash, Nginx, VS Code" />
 </p>
 
 | Focus | Tools and concepts |
