@@ -48,17 +48,17 @@ I'm also a FinOps advocate making sure cloud resources are properly monitored, o
 
 These repositories document hands-on practice and engineering workflows. I distinguish **implemented work** from future improvements rather than claiming production deployment where none is documented.
 
-### 🐳 [DevOps Lab — Docker application workflow](https://github.com/oluwaloseyiT/devops-lab2)
+### 🛍️ [ColognebyFour29 — Luxury Perfume E-commerce Platform](https://github.com/oluwaloseyiT/ColognebyFour29/blob/main/README.md)
 
-Set up a DevOps development environment and containerized an application with Docker.
+Designed and developed a luxury fragrance storefront with customer and admin experiences, an AI-powered scent finder, cloud-backed data, and documented payment verification workflows. **The project link opens the README directly** for an overview of the architecture and features.
 
-**Focus:** Containerization · repeatable local setup · development workflows
+**Focus:** React · TypeScript · Firebase/Firestore · Azure Blob Storage · Paystack · Gemini AI
 
-### 🐍 [LoopCart — Python & Git collaboration](https://github.com/oluwaloseyiT/loopcart-remote)
+### 🐍 [freeCodeCamp — Python Curriculum Contribution](https://github.com/freeCodeCamp/freeCodeCamp/issues/70887)
 
-A Python application that delivers personalized welcome messages, used to practice application development and version-control workflows.
+Worked on the freeCodeCamp Python dictionary loops lesson issue, focusing on improving loop syntax and rounding explanations for learners. The linked issue provides context for the proposed curriculum improvements; this listing does not imply an accepted or merged pull request.
 
-**Focus:** Python · Git · collaboration
+**Focus:** Python education · technical accuracy · open-source curriculum
 
 ### 🧩 [PinPoint Pro — Open-source participation](https://github.com/oluwaloseyiT/pinpointpro)
 
