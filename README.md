@@ -8,6 +8,8 @@
 [![Technical writing](https://img.shields.io/badge/Articles-dev.to%2Ftjasper-0D1117?style=for-the-badge&logo=devdotto)](https://dev.to/tjasper)
 [![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwaloseyie@gmail.com)
 
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-oluwaloseyioluwatofunmi.pages.dev-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://oluwaloseyioluwatofunmi.pages.dev/)
+
 </div>
 
 ---
