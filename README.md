@@ -25,7 +25,7 @@ I'm also a FinOps advocate making sure cloud resources are properly monitored, o
 - 📈 **Observability:** Azure Monitor and New Relic fundamentals
 - 🛠️ **Automation:** Terraform, Git workflows, Docker, and scripting
 - 📝 **Knowledge sharing:** [Hands-on technical tutorials](https://dev.to/tjasper)
-- 🌱 **Currently exploring:** Kubernetes and deeper DevOps workflows
+- 🌱 **Currently exploring:** Kubernetes and deeper DevOps pipeline and workflows
 - 🤝 **Open to:** Cloud engineering, cloud support, DevOps, and open-source collaboration
 
 > My approach: **Build it. Secure it. Monitor it. Automate it. Document it.**
